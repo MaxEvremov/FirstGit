@@ -1,0 +1,5 @@
+print(isinstance(1,object))
+print(isinstance("текст",object))
+print(isinstance(2.8,object))
+print(isinstance([1,2,3],object))
+print(isinstance({1,2,3},object))
